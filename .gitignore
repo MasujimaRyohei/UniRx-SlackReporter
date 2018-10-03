@@ -3,7 +3,7 @@ UniRx-SlackReporter/[Tt]emp/
 UniRx-SlackReporter/[Oo]bj/
 UniRx-SlackReporter/[Bb]uild/
 UniRx-SlackReporter/[Bb]uilds/
-/Plugins/
+UniRx-SlackReporter/Assets/Plugins/
 
 # Visual Studio cache directory
 .vs/
