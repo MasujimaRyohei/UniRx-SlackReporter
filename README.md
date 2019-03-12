@@ -9,7 +9,7 @@ You can send message to Slack using this UniRx-SlackReporter.
 Import to your project after download Joystick.unitypackage from [release](https://github.com/MasujimaRyohei/UniRx-SlackReporter/releases).
 
 ## Author
-[@Masujima Ryohei](https://www.twitter.com/MasujimaRyohei/)
+[@mr](https://www.twitter.com/MasujimaRyohei/)
 
 ## Copyright
 ■ [MIT License](https://github.com/MasujimaRyohei/UniRx-SlackReporter/blob/master/LICENSE)
